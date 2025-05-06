@@ -1,0 +1,5 @@
+﻿  frequency_array.c
+  main.c
+  Generating Code...
+F:\Programming\Phitron\S1\Week 4\Frequency-array\frequency_array.c(124,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Frequency-array.vcxproj -> F:\Programming\Phitron\S1\Week 4\Frequency-array\x64\Debug\Frequency-array.exe

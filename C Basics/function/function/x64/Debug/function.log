@@ -1,0 +1,10 @@
+﻿  main.c
+F:\Programming\Phitron\S1\Week 5\function\main.c(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+F:\Programming\Phitron\S1\Week 5\function\main.c(20,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+F:\Programming\Phitron\S1\Week 5\function\main.c(21,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+F:\Programming\Phitron\S1\Week 5\function\main.c(21,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+F:\Programming\Phitron\S1\Week 5\function\main.c(35,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+F:\Programming\Phitron\S1\Week 5\function\main.c(35,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+F:\Programming\Phitron\S1\Week 5\function\main.c(36,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+F:\Programming\Phitron\S1\Week 5\function\main.c(36,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+  function.vcxproj -> F:\Programming\Phitron\S1\Week 5\function\x64\Debug\function.exe

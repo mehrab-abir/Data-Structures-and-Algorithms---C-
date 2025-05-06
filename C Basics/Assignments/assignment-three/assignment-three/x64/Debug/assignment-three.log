@@ -1,0 +1,7 @@
+﻿  main.c
+  problems.c
+F:\Programming\Phitron\S1\Assignments\assignment-three\main.c(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Programming\Phitron\S1\Assignments\assignment-three\problems.c(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Programming\Phitron\S1\Assignments\assignment-three\problems.c(172,3): warning C4098: 'dynamicArray': 'void' function returning a value
+  Generating Code...
+  assignment-three.vcxproj -> F:\Programming\Phitron\S1\Assignments\assignment-three\x64\Debug\assignment-three.exe

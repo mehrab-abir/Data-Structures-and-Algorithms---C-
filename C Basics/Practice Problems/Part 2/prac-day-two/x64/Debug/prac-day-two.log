@@ -1,0 +1,11 @@
+﻿  functions.c
+  main.c
+F:\Programming\Phitron\S1\Week 3\prac-day-two\functions.c(39,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\Phitron\S1\Week 3\prac-day-two\functions.c(63,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+F:\Programming\Phitron\S1\Week 3\prac-day-two\functions.c(63,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'int'
+F:\Programming\Phitron\S1\Week 3\prac-day-two\functions.c(64,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+F:\Programming\Phitron\S1\Week 3\prac-day-two\functions.c(64,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'int'
+F:\Programming\Phitron\S1\Week 3\prac-day-two\functions.c(59,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\Phitron\S1\Week 3\prac-day-two\functions.c(60,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  prac-day-two.vcxproj -> F:\Programming\Phitron\S1\Week 3\prac-day-two\x64\Debug\prac-day-two.exe

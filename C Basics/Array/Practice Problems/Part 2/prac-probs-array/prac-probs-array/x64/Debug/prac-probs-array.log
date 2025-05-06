@@ -1,0 +1,9 @@
+﻿  core.c
+F:\Programming\Phitron\S1\Week 2\Practice Day 2\prac-probs-array\core.c(24,33): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+F:\Programming\Phitron\S1\Week 2\Practice Day 2\prac-probs-array\core.c(24,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+      F:\Programming\Phitron\S1\Week 2\Practice Day 2\prac-probs-array\core.c(24,9):
+      consider using '%d' in the format string
+      F:\Programming\Phitron\S1\Week 2\Practice Day 2\prac-probs-array\core.c(24,9):
+      consider using '%I32d' in the format string
+  
+  prac-probs-array.vcxproj -> F:\Programming\Phitron\S1\Week 2\Practice Day 2\prac-probs-array\x64\Debug\prac-probs-array.exe

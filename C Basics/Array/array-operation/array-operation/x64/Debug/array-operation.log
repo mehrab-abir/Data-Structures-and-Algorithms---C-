@@ -1,0 +1,3 @@
+﻿  functions.c
+F:\Programming\Phitron\S1\Week 3\array-operation\functions.c(109,35): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+  array-operation.vcxproj -> F:\Programming\Phitron\S1\Week 3\array-operation\x64\Debug\array-operation.exe

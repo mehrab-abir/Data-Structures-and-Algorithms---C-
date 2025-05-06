@@ -1,0 +1,7 @@
+﻿  string_operation.c
+F:\Programming\Phitron\S1\Week 3\string-operation\string_operation.c(40,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\Phitron\S1\Week 3\string-operation\string_operation.c(53,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\Phitron\S1\Week 3\string-operation\string_operation.c(94,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\Phitron\S1\Week 3\string-operation\string_operation.c(95,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Programming\Phitron\S1\Week 3\string-operation\string_operation.c(184,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  string-operation.vcxproj -> F:\Programming\Phitron\S1\Week 3\string-operation\x64\Debug\string-operation.exe
