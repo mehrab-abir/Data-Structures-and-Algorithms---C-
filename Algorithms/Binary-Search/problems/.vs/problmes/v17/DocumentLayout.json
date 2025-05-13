@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CS\\Phitron-CSE-main\\Data Structure\\Week 1\\Practice_Problems\\problmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639BBF79-D6BE-4B2F-B04F-9E911B439183}|problmes\\problmes.vcxproj|F:\\CS\\Phitron-CSE-main\\Data Structure\\Week 1\\Practice_Problems\\problmes\\problmes\\core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{639BBF79-D6BE-4B2F-B04F-9E911B439183}|problmes\\problmes.vcxproj|solutionrelative:problmes\\core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639BBF79-D6BE-4B2F-B04F-9E911B439183}|problmes\\problmes.vcxproj|F:\\CS\\Phitron-CSE-main\\Data Structure\\Week 1\\Practice_Problems\\problmes\\problmes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{639BBF79-D6BE-4B2F-B04F-9E911B439183}|problmes\\problmes.vcxproj|solutionrelative:problmes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\CS\\Phitron-CSE-main\\Data Structure\\Week 1\\Practice_Problems\\problmes\\problmes\\main.cpp",
+              "RelativeDocumentMoniker": "problmes\\main.cpp",
+              "ToolTip": "F:\\CS\\Phitron-CSE-main\\Data Structure\\Week 1\\Practice_Problems\\problmes\\problmes\\main.cpp",
+              "RelativeToolTip": "problmes\\main.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T00:22:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "core.cpp",
+              "DocumentMoniker": "F:\\CS\\Phitron-CSE-main\\Data Structure\\Week 1\\Practice_Problems\\problmes\\problmes\\core.cpp",
+              "RelativeDocumentMoniker": "problmes\\core.cpp",
+              "ToolTip": "F:\\CS\\Phitron-CSE-main\\Data Structure\\Week 1\\Practice_Problems\\problmes\\problmes\\core.cpp",
+              "RelativeToolTip": "problmes\\core.cpp",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T00:22:16.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
