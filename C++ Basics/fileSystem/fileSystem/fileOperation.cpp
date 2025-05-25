@@ -26,6 +26,8 @@ void write() {
 		cout << "	!!Unable to open file for writting" << endl;
 	}
 
+
+	//again write 
 	string review;
 
 	cout << "Write a review [Press enter only when you are done]: ";
@@ -144,10 +146,16 @@ void append() {
 	cout << endl;
 
 	count++; //updating the latest serial number for the next movie name
+	//incrementing 1 to the last serial number, if it was 5, it will 6 for the next movie
+
 
 	//now, adding new movies to the list
 	ofstream updateFile("movieList.txt", ios::app); //ios::app to append new content to the existing one
 	string input;
+
+	int serialNumber;
+
+	serialNumber = count;
 
 	if (updateFile.is_open()) {
 		cout << "Enter new movies: [Type 'exit' to stop] " << endl;
@@ -156,11 +164,11 @@ void append() {
 			if (input == "exit" || input == "Exit" || input == "EXIT") {
 				break;
 			}
-			updateFile  << count << ". " << input<< endl;
-			count++;
+			updateFile  << serialNumber << ". " << input<< endl;
+			serialNumber++;
 		}
 		updateFile.close();
-		cout << "\nMovie list upadted." << endl;
+		cout << "\nMovie list updated." << endl;
 	}
 	else {
 		cout << "\n		!!Unable to update movie list" << endl;
