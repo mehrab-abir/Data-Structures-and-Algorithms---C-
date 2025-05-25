@@ -219,7 +219,7 @@ void read_write() {
 	if (file.is_open()) {
 		file << newData << endl;
 
-		file.seekg(0); //moving the cursor to position 0, beginning point
+		file.seekg(0); //moving the cursor to position 0, begining point
 
 		string line;
 		while (getline(file, line)) {
